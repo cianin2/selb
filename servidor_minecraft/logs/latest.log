@@ -4973,3 +4973,112 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [15Mar2025 04:19:48.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Quartz Gate] to cianoman]
 [15Mar2025 04:20:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Quartz Grass Topped Wall] to cianoman]
 [15Mar2025 04:21:20.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Quartz Fence] to cianoman]
+[15Mar2025 04:51:42.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: biesexo[/127.149.87.199:45181] logged in with entity id 11648 at (-23875.696176859805, 65.79507002166032, -3459.061185616826)
+[15Mar2025 04:51:42.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to biesexo
+[15Mar2025 04:51:42.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to biesexo
+[15Mar2025 04:51:42.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to biesexo
+[15Mar2025 04:51:42.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to biesexo
+[15Mar2025 04:51:42.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to biesexo
+[15Mar2025 04:51:42.521] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to biesexo
+[15Mar2025 04:51:42.521] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to biesexo
+[15Mar2025 04:51:42.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo joined the game
+[15Mar2025 04:51:42.661] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityBroom['entity.evilcraft.broom'/11649, l='ServerLevel[world]', x=-23875.70, y=66.15, z=-3459.06] as it would cause deadlock
+[15Mar2025 04:51:43.120] [Server thread/INFO] [Jade/]: Syncing config to biesexo (e5f0d1f8-f2bb-3dd8-97d8-a735322301d7)
+[15Mar2025 04:52:35.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Diamond] to cianoman]
+[15Mar2025 04:57:20.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Electrolytic Separator] to cianoman]
+[15Mar2025 04:58:39.473] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:58:39.473] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=777, z=1073200}"
+}
+[15Mar2025 04:58:39.474] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 106 extra bytes: 
+[15Mar2025 04:58:39.474] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9@or\"/os)zc$4 B!ru{KFa&+/,0/5"
+]
+[15Mar2025 04:58:39.475] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:58:39.475] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 5568
+}
+[15Mar2025 04:58:39.475] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 135 extra bytes: 
+[15Mar2025 04:58:39.475] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/,0/526.ip.gl.ply.gg+3&"
+]
+[15Mar2025 04:58:39.900] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:58:39.900] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=925, z=1073200}"
+}
+[15Mar2025 04:58:39.900] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 52 extra bytes: 
+[15Mar2025 04:58:39.900] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "kV(zTI .a>$\"#FKgb"
+]
+[15Mar2025 04:58:39.901] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundMoveVehiclePacket  id 24 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:58:39.901] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134185_": 1.1664639744905611E-199,
+  "f_134186_": -8.697806077314914E-200,
+  "f_134187_": -2.2508968439739877E305,
+  "f_134188_": 2.9324306E-29,
+  "f_134189_": 9.3395944E-11
+}
+[15Mar2025 04:58:39.902] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 24 data of 143 extra bytes: 
+[15Mar2025 04:58:39.902] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$\"#FKgbfdQep&+/,0/526.ip.gl.ply.gg"
+]
+[15Mar2025 04:58:39.902] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:58:39.902] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[15Mar2025 04:58:39.902] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 123 extra bytes: 
+[15Mar2025 04:58:39.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/526.ip.gl.ply.gg+3&"
+]
+[15Mar2025 04:58:39.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:58:39.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 53
+}
+[15Mar2025 04:58:39.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 154 extra bytes: 
+[15Mar2025 04:58:39.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "26.ip.gl.ply.gg+3& 87cJ^k@fAgS"
+]
+[15Mar2025 04:58:40.042] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:58:40.042] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=968, z=1073200}"
+}
+[15Mar2025 04:58:40.042] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Mar2025 04:58:40.043] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[81, 112, 57, 125, -52, -80, -76, 64, -51, 11, 49]"
+]
+[15Mar2025 04:58:40.431] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:58:40.431] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=951, z=1073200}"
+}
+[15Mar2025 04:58:40.431] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 127 extra bytes: 
+[15Mar2025 04:58:40.432] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "JM%CN}\"bxZ \"v?&AOU&+/,0/526.ip.gl.pl"
+]
+[15Mar2025 04:59:31.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Blaze Instruction Manual] to cianoman]
+[15Mar2025 04:59:33.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Defunct Machinery]
+[15Mar2025 04:59:44.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [Defunct Machinery]
+[15Mar2025 04:59:50.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 16 [Ender Pearl] to cianoman]
+[15Mar2025 05:00:12.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Hunter's Handgun] to cianoman]
+[15Mar2025 05:00:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Neutral Magazine] to cianoman]
+[15Mar2025 05:01:56.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Neutral Magazine] to cianoman]

@@ -20557,6 +20557,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-03-15 04:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_drill_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
@@ -20584,6 +20590,12 @@
   "bigreactors:recipes/building_blocks/energizer/powerport_fe_active": {
     "criteria": {
       "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_empty_bullet": "2025-03-15 05:00:27 +0000"
     },
     "done": true
   },
