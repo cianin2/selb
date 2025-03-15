@@ -5288,3 +5288,8 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2379!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:308) ~[netty-codec-4.1.82.Final.jar%2379!/:4.1.82.Final]
 	... 17 more
+[15Mar2025 05:46:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Bonk!]
+[15Mar2025 05:49:46.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Deployer] to cianoman]
+[15Mar2025 05:51:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Depot] to cianoman]
+[15Mar2025 05:55:03.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Emerald] to cianoman]
+[15Mar2025 05:55:13.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Emerald] to cianoman]
