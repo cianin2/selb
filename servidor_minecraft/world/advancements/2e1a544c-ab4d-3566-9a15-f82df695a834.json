@@ -20587,9 +20587,21 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/concrete_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/nozzle": {
     "criteria": {
       "has_item": "2025-03-15 03:47:10 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/driftwood_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20623,9 +20635,27 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/aspen_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/magic_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/chiseled_bricks": {
     "criteria": {
       "has_item": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/mahogany_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20641,9 +20671,21 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/grimwood_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/mangrove_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20671,9 +20713,27 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/oak_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/acacia_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/circuit_cutter": {
+    "criteria": {
+      "has_item": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20689,15 +20749,33 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/spruce_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/yucca_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/redstone": {
     "criteria": {
       "has_the_recipe": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/wisteria_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20725,15 +20803,45 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/concrete_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/mahogany_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/jacaranda_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/dark_oak_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/spruce_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20749,9 +20857,39 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/wisteria_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/palm_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/comb_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/river_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/cracked_bricks": {
     "criteria": {
       "has_item": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/maple_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20764,6 +20902,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/kousa_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20785,6 +20929,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/bamboo_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "mekanism:enricher": {
     "criteria": {
       "enrichment_chamber": "2025-03-15 03:41:04 +0000"
@@ -20794,6 +20944,54 @@
   "dyenamics:recipes/misc/ultramarine_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/magic_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/rosewood_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/river_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/jacaranda_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/stonecutter_cart": {
+    "criteria": {
+      "criterion0": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/acacia_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/umbran_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/palm_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20827,6 +21025,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/warped_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bricks_corner_trim": {
     "criteria": {
       "has_bricks_corner_trim": "2025-03-15 03:30:07 +0000"
@@ -20842,6 +21046,12 @@
   "bigreactors:recipes/building_blocks/turbine/basic/activefluidport_forge": {
     "criteria": {
       "has_item2": "2025-03-15 03:34:19 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/comb_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -20929,6 +21139,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/fir_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/brick_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-15 03:30:07 +0000"
@@ -20965,6 +21181,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/cherry_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
@@ -20983,9 +21205,21 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/umbran_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/dark_oak_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -21001,9 +21235,45 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/jungle_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/bamboo_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/crimson_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/grimwood_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/birch_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/dead_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -21013,9 +21283,33 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/hellbark_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/birch_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/redwood_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/energizer/powerport_fe": {
     "criteria": {
       "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/hellbark_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -21034,6 +21328,42 @@
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/redwood_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/mangrove_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/aspen_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/fir_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/willow_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/dead_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -21058,6 +21388,12 @@
   "additionallanterns:recipes/misc/netherite_chain": {
     "criteria": {
       "recipe_condition": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/yucca_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -21109,6 +21445,18 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/kousa_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/jungle_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-03-15 03:37:25 +0000"
@@ -21157,6 +21505,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/driftwood_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-03-15 03:39:37 +0000"
@@ -21187,6 +21541,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/warped_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/bricks_chain": {
     "criteria": {
       "recipe_condition": "2025-03-15 03:30:07 +0000"
@@ -21211,9 +21571,21 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/willow_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/honey_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/snake_block_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -21253,9 +21625,21 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/crimson_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "advancedperipherals:recipes/redstone/peripheral_casing": {
     "criteria": {
       "has_item": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/maple_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -21265,9 +21649,27 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/stonecutter/oak_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/snake_block_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/rosewood_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
@@ -21280,6 +21682,12 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-03-15 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/cherry_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-03-15 04:06:07 +0000"
     },
     "done": true
   },
