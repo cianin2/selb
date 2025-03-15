@@ -5082,3 +5082,8 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [15Mar2025 05:00:12.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Hunter's Handgun] to cianoman]
 [15Mar2025 05:00:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Neutral Magazine] to cianoman]
 [15Mar2025 05:01:56.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Neutral Magazine] to cianoman]
+[15Mar2025 05:05:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Diamond] to cianoman]
+[15Mar2025 05:07:19.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Netherite Ingot] to cianoman]
+[15Mar2025 05:08:04.526] [Worker-Main-102/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15070, l='ServerLevel[world]', x=-2952.00, y=31.00, z=-408.00] as it would cause deadlock
+[15Mar2025 05:08:09.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[15Mar2025 05:14:01.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [The Andesite Age]
