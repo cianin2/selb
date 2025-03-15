@@ -20551,6 +20551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-15 06:05:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
@@ -20638,6 +20644,12 @@
   "dyenamics:recipes/misc/spring_green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "createoreexcavation:recipes/misc/vein_finder": {
+    "criteria": {
+      "diamond": "2025-03-15 06:05:34 +0000"
     },
     "done": true
   },
@@ -20731,6 +20743,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/misc/receiver_component": {
+    "criteria": {
+      "has_item": "2025-03-15 06:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
@@ -20803,6 +20821,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-03-15 05:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
@@ -20818,6 +20842,12 @@
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-15 06:05:34 +0000"
     },
     "done": true
   },
@@ -21079,6 +21109,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/misc/transmitter_component": {
+    "criteria": {
+      "has_item": "2025-03-15 06:05:34 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/river_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
@@ -21124,6 +21160,12 @@
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_axe_repairing": {
+    "criteria": {
+      "has_netherite_axe": "2025-03-15 05:56:46 +0000"
     },
     "done": true
   },
@@ -21511,6 +21553,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-03-15 06:05:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2025-03-15 05:10:20 +0000"
@@ -21614,6 +21662,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-03-15 06:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
@@ -21680,6 +21734,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
+    "criteria": {
+      "has_grass_block": "2025-03-15 06:04:06 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/crimson_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
@@ -21731,6 +21791,12 @@
   "alchemistry:recipes/dissolver/netherite_block": {
     "criteria": {
       "has_the_recipe": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-03-15 06:05:34 +0000"
     },
     "done": true
   },
@@ -21950,6 +22016,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-03-15 06:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
@@ -22166,6 +22238,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-03-15 05:55:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2025-03-15 05:10:20 +0000"
@@ -22223,6 +22301,12 @@
   "dyenamics:recipes/misc/icy_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-03-15 06:05:34 +0000"
     },
     "done": true
   },
@@ -22349,6 +22433,12 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-03-15 06:05:34 +0000"
     },
     "done": true
   },
