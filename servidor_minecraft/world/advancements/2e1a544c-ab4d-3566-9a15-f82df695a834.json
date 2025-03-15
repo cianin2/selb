@@ -20935,6 +20935,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-03-15 06:14:02 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/wisteria_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
@@ -20962,6 +20968,18 @@
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/berry_stick": {
+    "criteria": {
+      "has_torchberries": "2025-03-15 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_pie": {
+    "criteria": {
+      "has_torchberries": "2025-03-15 06:14:02 +0000"
     },
     "done": true
   },
@@ -21151,6 +21169,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2025-03-15 06:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-03-15 03:38:13 +0000"
@@ -21256,6 +21280,12 @@
   "productivebees:recipes/misc/stonecutter/jacaranda_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-03-15 06:14:17 +0000"
     },
     "done": true
   },
@@ -21394,6 +21424,12 @@
   "connectedglass:recipes/misc/borderless_glass_pane1": {
     "criteria": {
       "recipe_condition": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_cookie": {
+    "criteria": {
+      "has_torchberries": "2025-03-15 06:14:02 +0000"
     },
     "done": true
   },
@@ -21613,6 +21649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-03-15 06:14:17 +0000"
+    },
+    "done": true
+  },
   "aeinfinitybooster:recipes/misc/infinity_card": {
     "criteria": {
       "has_item": "2025-03-15 03:38:10 +0000"
@@ -21719,6 +21761,12 @@
   "railcraft:recipes/misc/bushing_gear_brass": {
     "criteria": {
       "has_material": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-15 06:14:28 +0000"
     },
     "done": true
   },
@@ -21854,6 +21902,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/misc/torchberries_crate": {
+    "criteria": {
+      "has_torchberries": "2025-03-15 06:14:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
@@ -21911,6 +21965,18 @@
   "productivebees:recipes/misc/stonecutter/willow_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-15 06:14:28 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/twilight_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2025-03-15 06:14:02 +0000"
     },
     "done": true
   },
@@ -22232,6 +22298,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-15 06:15:47 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/fluorescent_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
@@ -22277,6 +22349,12 @@
   "productivebees:recipes/misc/stonecutter/snake_block_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-03-15 06:14:02 +0000"
     },
     "done": true
   },
@@ -22394,6 +22472,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/cooking/torchberry_juice": {
+    "criteria": {
+      "has_torchberries": "2025-03-15 06:14:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
@@ -22493,6 +22577,18 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-03-15 06:14:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-03-15 06:13:28 +0000"
     },
     "done": true
   },
