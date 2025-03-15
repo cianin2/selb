@@ -21217,6 +21217,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-03-15 05:14:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-03-15 05:10:20 +0000"
@@ -21456,6 +21462,12 @@
       "has_bricks": "2025-03-15 03:30:07 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-15 05:11:42 +0000"
+    },
+    "done": false
   },
   "dyenamics:recipes/misc/navy_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -21832,6 +21844,12 @@
   "deepresonance:recipes/deepresonance/lens": {
     "criteria": {
       "has_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-03-15 05:14:37 +0000"
     },
     "done": true
   },
