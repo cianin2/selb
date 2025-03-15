@@ -20653,6 +20653,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/brass_knife": {
+    "criteria": {
+      "has_ingots/brass": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-03-15 05:10:20 +0000"
@@ -20674,6 +20680,12 @@
   "littlecontraptions:recipes/transportation/barge_assembler": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -20761,6 +20773,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/brass_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2025-03-15 03:34:19 +0000"
@@ -20845,6 +20863,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/spruce_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
@@ -20887,9 +20911,27 @@
     },
     "done": true
   },
+  "railcraft:recipes/misc/zinc_gear": {
+    "criteria": {
+      "has_material": "2025-03-15 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -20911,9 +20953,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2025-03-15 05:24:09 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/brick": {
     "criteria": {
       "has_wood": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -20947,9 +21001,21 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/zinc_knife": {
+    "criteria": {
+      "has_ingots/zinc": "2025-03-15 05:39:36 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/jacaranda_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-03-15 05:24:09 +0000"
     },
     "done": true
   },
@@ -20980,6 +21046,12 @@
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-03-15 05:24:09 +0000"
     },
     "done": true
   },
@@ -21016,6 +21088,12 @@
   "twigs:recipes/bricks/cracked_bricks": {
     "criteria": {
       "has_item": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-03-15 05:38:18 +0000"
     },
     "done": true
   },
@@ -21082,6 +21160,12 @@
   "functionalstorage:recipes/misc/netherite_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -21271,9 +21355,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/brass_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "mekanismgenerators:heat_generator": {
     "criteria": {
       "heat_generator": "2025-03-15 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -21286,6 +21382,12 @@
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -21319,6 +21421,12 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-03-15 05:40:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-03-15 05:10:20 +0000"
@@ -21331,6 +21439,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/turbine/reinforced/activefluidport_forge": {
     "criteria": {
       "has_item2": "2025-03-15 03:34:19 +0000"
@@ -21340,6 +21454,12 @@
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-03-15 05:39:36 +0000"
     },
     "done": true
   },
@@ -21469,6 +21589,18 @@
     },
     "done": false
   },
+  "alltheores:recipes/misc/zinc_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-03-15 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/brass_dust_from_ingot": {
+    "criteria": {
+      "has_brass_ingot": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/navy_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
@@ -21529,9 +21661,21 @@
     },
     "done": true
   },
+  "railcraft:recipes/misc/bushing_gear_brass": {
+    "criteria": {
+      "has_material": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/bamboo_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-03-15 05:39:36 +0000"
     },
     "done": true
   },
@@ -21568,6 +21712,18 @@
   "productivebees:recipes/misc/stonecutter/dead_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-15 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-03-15 05:39:36 +0000"
     },
     "done": true
   },
@@ -21703,6 +21859,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
+    "criteria": {
+      "has_zinc_ingot": "2025-03-15 05:39:36 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2025-03-15 03:30:07 +0000"
@@ -21712,6 +21874,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-15 03:44:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -21769,6 +21937,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-15 05:33:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
@@ -21793,6 +21973,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/jungle_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
@@ -21811,9 +21997,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/aquamarine_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/brass_gear": {
+    "criteria": {
+      "has_material": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -21826,6 +22024,12 @@
   "twigs:recipes/bricks/mixed_bricks": {
     "criteria": {
       "has_item": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-03-15 05:39:36 +0000"
     },
     "done": true
   },
@@ -21919,6 +22123,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-03-15 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-03-15 05:39:36 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/reactor/basic/activetap_fe": {
     "criteria": {
       "has_item2": "2025-03-15 03:39:37 +0000"
@@ -21985,6 +22201,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-03-15 05:39:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-15 03:37:55 +0000"
@@ -22012,6 +22234,12 @@
   "aether:recipes/combat/netherite_boots_repairing": {
     "criteria": {
       "has_netherite_boots": "2025-03-15 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-03-15 05:40:46 +0000"
     },
     "done": true
   },
@@ -22081,6 +22309,12 @@
     },
     "done": true
   },
+  "railcraft:recipes/misc/charge_terminal": {
+    "criteria": {
+      "has_brass_ingot": "2025-03-15 05:40:46 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/rosewood_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-03-15 04:06:07 +0000"
@@ -22108,6 +22342,12 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-03-15 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-03-15 05:24:09 +0000"
     },
     "done": true
   },

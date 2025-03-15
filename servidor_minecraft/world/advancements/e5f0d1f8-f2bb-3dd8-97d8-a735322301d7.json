@@ -19546,6 +19546,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-03-15 05:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_machete_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 05:02:39 +0000"
@@ -19561,6 +19567,12 @@
   "aeinfinitybooster:recipes/misc/infinity_card": {
     "criteria": {
       "has_item": "2025-03-15 05:02:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-03-15 05:25:20 +0000"
     },
     "done": true
   },
@@ -19606,6 +19618,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-03-15 05:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 05:02:39 +0000"
@@ -19627,6 +19645,12 @@
   "rsinfinitybooster:recipes/misc/infinity_card": {
     "criteria": {
       "has_item": "2025-03-15 05:02:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-15 05:31:57 +0000"
     },
     "done": true
   },
