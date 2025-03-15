@@ -4711,3 +4711,265 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 	... 17 more
 [15Mar2025 04:05:30.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Acanthine Quartz Column Capital] to cianoman]
 [15Mar2025 04:06:06.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Stonecutter] to cianoman]
+[15Mar2025 04:14:19.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has reached the goal [Dinner's Served!]
+[15Mar2025 04:18:14.016] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:14.035] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=869, z=1073200}"
+}
+[15Mar2025 04:18:14.035] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 74 extra bytes: 
+[15Mar2025 04:18:14.037] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "IV@|#dt!m |?KWF=K,acR&+/,0"
+]
+[15Mar2025 04:18:15.434] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:15.435] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=792, z=1073200}"
+}
+[15Mar2025 04:18:15.435] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 125 extra bytes: 
+[15Mar2025 04:18:15.435] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "BJq:X>t7iokpi ws,{TCV/cHAe3W-e&+/,0/526.ip.gl."
+]
+[15Mar2025 04:18:16.566] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:16.567] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=810, z=1073200}"
+}
+[15Mar2025 04:18:16.567] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Mar2025 04:18:16.569] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[15, 75, -37, -124, 90, 86, -65, 11, -90, -123, 32]"
+]
+[15Mar2025 04:18:16.786] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:16.786] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=899, z=1073200}"
+}
+[15Mar2025 04:18:16.786] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 126 extra bytes: 
+[15Mar2025 04:18:16.787] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "BQ<f7G#v+Szs_ ;=47P8J8BD&+/,0/526.ip.gl.p"
+]
+[15Mar2025 04:18:16.787] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:16.787] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "EASY"
+}
+[15Mar2025 04:18:16.787] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 231 extra bytes: 
+[15Mar2025 04:18:16.788] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Q<f7G#v+Szs_ ;=47P8J8BD&+/,0/526.ip.gl.py.gg+3&$ \\<:7`V"
+]
+[15Mar2025 04:18:17.196] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:17.198] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=853, z=1073200}"
+}
+[15Mar2025 04:18:17.198] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 123 extra bytes: 
+[15Mar2025 04:18:17.198] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Q!`8# uJrR-N@R!p&+/,0/526.ip.g"
+]
+[15Mar2025 04:18:17.199] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerInputPacket  id 31 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:17.201] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134339_": -1.8627682E37,
+  "f_134340_": -5.4225652E-30,
+  "f_134341_": false,
+  "f_134342_": true
+}
+[15Mar2025 04:18:17.201] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 31 data of 208 extra bytes: 
+[15Mar2025 04:18:17.201] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  " uJrR-N@R!p&+/,0/526.ip.g.ply.gg+3&$ 8.z"
+]
+[15Mar2025 04:18:17.399] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:17.400] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=865, z=1073200}"
+}
+[15Mar2025 04:18:17.400] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Mar2025 04:18:17.400] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-97, 70, 24, -49, 53, -68, -117, 29, 24, 64, -14]"
+]
+[15Mar2025 04:18:17.944] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:17.945] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=858, z=1073200}"
+}
+[15Mar2025 04:18:17.945] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Mar2025 04:18:17.945] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[17, 10, 31, -70, 25, 28, 122, 13, 4, 35, 11]"
+]
+[15Mar2025 04:18:18.026] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:18.026] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=798, z=1073200}"
+}
+[15Mar2025 04:18:18.027] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 84 extra bytes: 
+[15Mar2025 04:18:18.027] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/I'SZxj-SvSBVI syK$%7E6)q61&+/,0"
+]
+[15Mar2025 04:18:18.356] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:18.357] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=910, z=1073200}"
+}
+[15Mar2025 04:18:18.357] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Mar2025 04:18:18.357] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-68, -12, 35, 92, 28, -66, -48, -12, -33, 111, -69]"
+]
+[15Mar2025 04:18:18.928] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:18.928] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=946, z=1073200}"
+}
+[15Mar2025 04:18:18.928] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 51 extra bytes: 
+[15Mar2025 04:18:18.929] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "5w%u/SD\"Ep)v} {9Liv$u="
+]
+[15Mar2025 04:18:18.930] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundCommandSuggestionPacket  id 9 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:18.930] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133889_": 57,
+  "f_133890_": "i���v$��u=�\u0019��\t%|���\"�Z�\tE\u0000&�+�/�,�0̨̩�\t�\u0013�\n�\u0014\u0000�\u0000�\u00005�\u0012\u0000\n\u0013\u0001\u0013\u0002\u0013\u0003\u0001\u0000\u0000�\u0000\u0000\u0000\u0014\u0000\u0012\u0000"
+}
+[15Mar2025 04:18:18.930] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 9 data of 69 extra bytes: 
+[15Mar2025 04:18:18.931] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 15, 50, 54, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 0, 5, 1, 0, 0, 0, 10, 0, 8, 0, 29, 0, 23, 0, 24, 0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2, -1, 1, 0, 0]"
+]
+[15Mar2025 04:18:18.931] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:18.931] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15
+}
+[15Mar2025 04:18:18.931] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 67 extra bytes: 
+[15Mar2025 04:18:18.931] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[50, 54, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 0, 5, 1, 0, 0, 0, 10, 0, 8, 0, 29, 0, 23, 0, 24, 0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2, -1, 1, 0, 0]"
+]
+[15Mar2025 04:18:18.932] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSignUpdatePacket  id 46 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:18.932] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134645_": "BlockPos{x=27639993, y=108, z=-25771289}",
+  "f_134646_": [
+    "gg\u0000\u0005\u0000\u0005\u0001\u0000\u0000\u0000\n\u0000\b\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000\r\u0000\u001a\u0000\u0018\b\u0004\u0004\u0003\b\u0007\b\u0005\b\u0006\u0004\u0001\u0005\u0006\u0005",
+    "\u0003\u0002\u0002�\u0001\u0000",
+    "",
+    ""
+  ],
+  "f_276680_": true
+}
+[15Mar2025 04:18:18.932] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 46 data of 22 extra bytes: 
+[15Mar2025 04:18:18.932] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 18, 0, 0, 0, 43, 0, 9, 8, 3, 4, 3, 3, 3, 2, 3, 1, 0, 51, 0, 38]"
+]
+[15Mar2025 04:18:18.933] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:18.933] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[15Mar2025 04:18:18.933] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 56 extra bytes: 
+[15Mar2025 04:18:18.933] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& w-{\\@U;7t&q,Q|e"
+]
+[15Mar2025 04:18:18.933] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundKeepAlivePacket  id 18 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:18.934] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134092_": 184684185603
+}
+[15Mar2025 04:18:18.934] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 18 data of 47 extra bytes: 
+[15Mar2025 04:18:18.934] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3& w-{\\@U;7t&q,Q|e"
+]
+[15Mar2025 04:18:22.335] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:22.335] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=964, z=1122352}"
+}
+[15Mar2025 04:18:22.336] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 39 extra bytes: 
+[15Mar2025 04:18:22.336] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "86R}8XU%Nbb] quq"
+]
+[15Mar2025 04:18:22.656] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:22.656] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=808, z=905264}"
+}
+[15Mar2025 04:18:22.656] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 108 extra bytes: 
+[15Mar2025 04:18:22.657] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "IEnWh,/52(k'8<@09+f$"
+]
+[15Mar2025 04:18:24.058] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:24.059] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=973, z=856112}"
+}
+[15Mar2025 04:18:24.059] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 54 extra bytes: 
+[15Mar2025 04:18:24.059] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "tAN&NRo; (N8,0+/$"
+]
+[15Mar2025 04:18:24.060] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:24.060] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": -1138209280
+}
+[15Mar2025 04:18:24.060] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 149 extra bytes: 
+[15Mar2025 04:18:24.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8,0+/$k#'g93=<5/p26.ip.gl.ply.gg0."
+]
+[15Mar2025 04:18:24.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Mar2025 04:18:24.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 56
+}
+[15Mar2025 04:18:24.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 148 extra bytes: 
+[15Mar2025 04:18:24.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ",0+/$k#'g93=<5/p26.ip.gl.ply.gg0."
+]
+[15Mar2025 04:18:29.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Quartz Grass Topped Wall] to cianoman]
+[15Mar2025 04:18:58.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Modern Quartz Wall] to cianoman]
+[15Mar2025 04:19:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Quartz Gate] to cianoman]
+[15Mar2025 04:19:46.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Quartz Gate] to cianoman]
+[15Mar2025 04:19:46.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Quartz Gate] to cianoman]
+[15Mar2025 04:19:47.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Quartz Gate] to cianoman]
+[15Mar2025 04:19:48.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Quartz Gate] to cianoman]
+[15Mar2025 04:19:48.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Quartz Gate] to cianoman]
+[15Mar2025 04:20:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Quartz Grass Topped Wall] to cianoman]
+[15Mar2025 04:21:20.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Quartz Fence] to cianoman]
