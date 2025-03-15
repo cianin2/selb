@@ -20545,9 +20545,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-15 03:37:55 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_drill_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-15 03:34:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bubblegum_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/energizer/powerport_fe_active": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-03-15 03:47:10 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/spring_green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/rose_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/activetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/energizer/casing": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/netherite_scrap": {
+    "criteria": {
+      "has_the_recipe": "2025-03-15 03:37:55 +0000"
     },
     "done": true
   },
@@ -20557,9 +20629,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-15 03:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
     },
     "done": true
   },
@@ -20569,9 +20677,33 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
+    "criteria": {
+      "has_redstone_block": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
     },
     "done": true
   },
@@ -20587,6 +20719,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2025-03-15 03:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
@@ -20599,9 +20737,81 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/cracked_bricks": {
     "criteria": {
       "has_item": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-15 03:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-15 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/wine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "functionalstorage:recipes/misc/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-03-15 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/ultramarine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:34:19 +0000"
     },
     "done": true
   },
@@ -20611,9 +20821,111 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/cherenkov_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bricks_corner_trim": {
     "criteria": {
       "has_bricks_corner_trim": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-15 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/lavender_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-03-15 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/activetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-15 03:44:28 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-03-15 03:47:24 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:34:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-03-15 03:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
     },
     "done": true
   },
@@ -20623,9 +20935,33 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/maroon_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-03-15 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-03-15 03:48:02 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "aeinfinitybooster:recipes/misc/infinity_card": {
+    "criteria": {
+      "has_item": "2025-03-15 03:38:10 +0000"
     },
     "done": true
   },
@@ -20635,9 +20971,75 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/navy_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/activetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/netherite_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/energizer/powerport_fe": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mixed_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-15 03:37:55 +0000"
     },
     "done": true
   },
@@ -20647,15 +21049,75 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-15 03:44:25 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/netherite_chain": {
+    "criteria": {
+      "recipe_condition": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-03-15 03:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bricks_pillar_trim": {
     "criteria": {
       "has_bricks_pillar_trim": "2025-03-15 03:30:07 +0000"
     },
     "done": true
   },
+  "dyenamics:recipes/misc/mint_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-15 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/aquamarine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
     },
     "done": true
   },
@@ -20671,15 +21133,165 @@
     },
     "done": true
   },
+  "deepresonance:recipes/deepresonance/lens": {
+    "criteria": {
+      "has_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-15 03:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/netherite_dust_from_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/basic/activetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/bricks_chain": {
     "criteria": {
       "recipe_condition": "2025-03-15 03:30:07 +0000"
     },
     "done": true
   },
+  "dyenamics:recipes/misc/fluorescent_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-03-15 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "rsinfinitybooster:recipes/misc/infinity_card": {
+    "criteria": {
+      "has_item": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-15 03:37:55 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/icy_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-03-15 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/redstone/peripheral_casing": {
+    "criteria": {
+      "has_item": "2025-03-15 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-03-15 03:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-15 03:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-15 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-03-15 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-03-15 03:47:24 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/coating_smithing_template": {
+    "criteria": {
+      "has_item": "2025-03-15 03:38:13 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-03-15 03:37:55 +0000"
     },
     "done": true
   },
