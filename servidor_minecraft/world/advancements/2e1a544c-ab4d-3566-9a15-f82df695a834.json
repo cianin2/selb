@@ -22604,9 +22604,27 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/blackstone_column": {
+    "criteria": {
+      "has_item": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_crafter": {
     "criteria": {
       "0": "2025-03-16 03:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
     },
     "done": true
   },
@@ -22616,9 +22634,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/etrionic_blast_furnace": {
     "criteria": {
       "has_etrionic_blast_furnace": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
     },
     "done": true
   },
@@ -22628,15 +22664,75 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-03-16 04:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-03-16 02:59:15 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/wrench": {
     "criteria": {
       "has_wrench": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:47:48 +0000"
     },
     "done": true
   },
@@ -22652,9 +22748,93 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/blackstone_1x": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-03-16 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/building_blocks/silent_oak_pressure_plate": {
     "criteria": {
       "has_ingredient": "2025-03-16 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/soul_snad": {
+    "criteria": {
+      "has_soul_sand": "2025-03-16 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-03-16 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-03-16 04:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-03-16 04:51:57 +0000"
     },
     "done": true
   },
@@ -22664,9 +22844,63 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
   "railcraft:recipes/misc/iron_tank_gauge": {
     "criteria": {
       "has_iron_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-16 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
     },
     "done": true
   },
@@ -22676,15 +22910,75 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
   "create:super_glue": {
     "criteria": {
       "0": "2025-03-16 03:16:35 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-03-16 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_plateblock": {
     "criteria": {
       "has_iron_plateblock": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-03-16 04:47:48 +0000"
     },
     "done": true
   },
@@ -22703,6 +22997,54 @@
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/blackstone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand": "2025-03-16 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/blackstone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-03-16 04:47:48 +0000"
     },
     "done": true
   },
@@ -22730,6 +23072,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-03-16 02:43:30 +0000"
@@ -22742,6 +23090,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-03-16 04:47:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "torchberries": "2025-03-16 04:43:20 +0000"
+    },
+    "done": false
+  },
   "utilitix:recipes/misc/tiny_charcoal_from_tiny": {
     "criteria": {
       "criterion0": "2025-03-16 04:22:04 +0000",
@@ -22752,6 +23118,36 @@
       "criterion3": "2025-03-16 04:22:04 +0000",
       "criterion2": "2025-03-16 04:22:04 +0000",
       "criterion1": "2025-03-16 04:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-16 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
     },
     "done": true
   },
@@ -22767,15 +23163,63 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-03-16 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/polished_blackstone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/misc/smelting/graphite_from_charcoal": {
     "criteria": {
       "has_item": "2025-03-16 04:21:55 +0000"
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/polished_blackstone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
   "railcraft:recipes/misc/iron_tank_wall": {
     "criteria": {
       "has_iron_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
     },
     "done": true
   },
@@ -22797,6 +23241,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-03-16 04:52:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2025-03-16 02:59:15 +0000"
@@ -22815,6 +23265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/encased_iron_block": {
     "criteria": {
       "has_encased_iron_block": "2025-03-16 02:59:15 +0000"
@@ -22827,15 +23283,57 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2025-03-16 02:43:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/fluid_placer": {
     "criteria": {
       "has_iron_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-16 04:47:48 +0000"
     },
     "done": true
   },
