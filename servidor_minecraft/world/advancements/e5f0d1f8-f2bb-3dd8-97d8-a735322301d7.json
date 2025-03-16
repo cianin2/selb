@@ -19498,18 +19498,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-03-15 05:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-03-15 05:08:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 05:02:39 +0000"
@@ -19540,18 +19528,6 @@
     },
     "done": true
   },
-  "alchemistry:recipes/dissolver/nether_brick": {
-    "criteria": {
-      "has_the_recipe": "2025-03-15 05:08:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
-    "criteria": {
-      "has_item": "2025-03-15 05:24:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_machete_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 05:02:39 +0000"
@@ -19570,21 +19546,9 @@
     },
     "done": true
   },
-  "twigs:recipes/rocky_dirt": {
-    "criteria": {
-      "has_item": "2025-03-15 05:25:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 05:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-03-15 05:06:42 +0000"
     },
     "done": true
   },
@@ -19618,12 +19582,6 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_from_pebble": {
-    "criteria": {
-      "has_item": "2025-03-15 05:25:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 05:02:39 +0000"
@@ -19648,12 +19606,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-03-15 05:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-15 05:02:39 +0000"
@@ -19666,15 +19618,63 @@
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_netherrack": "2025-03-15 05:08:34 +0000"
+      "has_diamond_backpack": "2025-03-15 05:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-15 05:08:25 +0000"
     },
     "done": true
   },
   "silentgear:recipes/misc/coating_smithing_template": {
     "criteria": {
       "has_item": "2025-03-15 05:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-15 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/nether_brick": {
+    "criteria": {
+      "has_the_recipe": "2025-03-15 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
+    "criteria": {
+      "has_netherrack": "2025-03-15 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-03-15 05:24:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-03-15 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-03-15 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-15 05:31:57 +0000"
     },
     "done": true
   },
