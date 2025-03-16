@@ -4859,3 +4859,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "8,0+/$(k'g93=<5/p26.ip.gl.ply.gg0."
 ]
 [16Mar2025 03:16:33.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Super Glue] to cianoman]
+[16Mar2025 03:37:39.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Mechanical Crafter] to cianoman]
+[16Mar2025 03:39:35.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Glass Pane] to cianoman]
+[16Mar2025 03:39:58.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Heat Generator] to cianoman]
+[16Mar2025 03:40:31.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Clear Leaded Glass Pane] to cianoman]
+[16Mar2025 03:43:25.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Depot] to cianoman]

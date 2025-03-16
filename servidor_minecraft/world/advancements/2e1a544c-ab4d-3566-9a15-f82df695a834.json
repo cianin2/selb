@@ -22703,6 +22703,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-03-16 03:37:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-03-16 02:43:30 +0000"
