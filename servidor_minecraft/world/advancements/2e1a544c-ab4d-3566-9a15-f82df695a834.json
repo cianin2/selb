@@ -22601,6 +22601,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-03-16 03:44:28 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/etrionic_blast_furnace": {
     "criteria": {
       "has_etrionic_blast_furnace": "2025-03-16 02:59:15 +0000"
@@ -22628,6 +22634,12 @@
   "ad_astra:recipes/misc/iron_plating": {
     "criteria": {
       "has_iron_plating": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_oak_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-03-16 03:51:31 +0000"
     },
     "done": true
   },
