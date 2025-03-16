@@ -19691,6 +19691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 19:43:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-03-16 19:33:57 +0000"
@@ -19706,6 +19712,18 @@
   "railcraft:recipes/misc/diamond_spike_maul": {
     "criteria": {
       "has_diamond_block": "2025-03-16 19:40:15 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/energizer/casing": {
+    "criteria": {
+      "has_item": "2025-03-16 19:43:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-03-16 19:43:34 +0000"
     },
     "done": true
   },
@@ -19733,9 +19751,21 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2025-03-16 19:43:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-03-16 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-03-16 19:43:34 +0000"
     },
     "done": true
   },
@@ -19766,6 +19796,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-03-16 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 19:43:55 +0000"
     },
     "done": true
   },
@@ -19823,9 +19859,21 @@
     },
     "done": true
   },
+  "bigreactors:recipes/building_blocks/turbine/basic/bearing": {
+    "criteria": {
+      "has_item": "2025-03-16 19:43:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-03-16 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-03-16 19:44:00 +0000"
     },
     "done": true
   },
@@ -19835,9 +19883,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 19:43:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-03-16 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/blast_furnace/blasting_steel_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 19:43:55 +0000"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/solid_fuel_quarry": {
+    "criteria": {
+      "has_storage_blocks/gold": "2025-03-16 19:43:34 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-03-16 19:43:55 +0000"
     },
     "done": true
   },
@@ -19856,6 +19928,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-03-16 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-03-16 19:43:34 +0000"
     },
     "done": true
   },
@@ -19901,9 +19979,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 19:43:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-03-16 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-16 19:43:34 +0000"
     },
     "done": true
   },
@@ -19913,9 +20003,27 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-03-16 19:43:55 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/iron_spike_maul": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 19:43:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-03-16 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 19:43:55 +0000"
     },
     "done": true
   },
@@ -19934,6 +20042,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-16 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-03-16 19:43:34 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-03-16 19:43:55 +0000"
     },
     "done": true
   },
