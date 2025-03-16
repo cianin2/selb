@@ -5248,3 +5248,5 @@ Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException
   "[-37, 22, -97, 22, 8, 26, 12, 75, -8, 10, 34]"
 ]
 [16Mar2025 04:12:32.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved too quickly! -9.005155072041816,5.593880499798971,-4.603599845941972
+[16Mar2025 04:15:20.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Jacaranda Stairs] to cianoman]
+[16Mar2025 04:21:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Charcoal] to cianoman]

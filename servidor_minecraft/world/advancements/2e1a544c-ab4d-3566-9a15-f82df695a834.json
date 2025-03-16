@@ -20400,7 +20400,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-03-16 04:28:23 +0000",
       "minecraft:pig": "2025-03-10 03:38:51 +0000",
+      "minecraft:sheep": "2025-03-16 04:28:41 +0000",
       "minecraft:chicken": "2025-03-16 04:11:20 +0000"
     },
     "done": false
@@ -22620,6 +22622,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/tiny_charcoal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-03-16 04:21:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-03-16 02:59:15 +0000"
@@ -22647,6 +22655,12 @@
   "enderio:recipes/building_blocks/silent_oak_pressure_plate": {
     "criteria": {
       "has_ingredient": "2025-03-16 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/blasting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-03-16 04:21:55 +0000"
     },
     "done": true
   },
@@ -22728,6 +22742,19 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/tiny_charcoal_from_tiny": {
+    "criteria": {
+      "criterion0": "2025-03-16 04:22:04 +0000",
+      "criterion7": "2025-03-16 04:22:04 +0000",
+      "criterion6": "2025-03-16 04:22:04 +0000",
+      "criterion5": "2025-03-16 04:22:04 +0000",
+      "criterion4": "2025-03-16 04:22:04 +0000",
+      "criterion3": "2025-03-16 04:22:04 +0000",
+      "criterion2": "2025-03-16 04:22:04 +0000",
+      "criterion1": "2025-03-16 04:22:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-03-16 02:43:30 +0000"
@@ -22737,6 +22764,12 @@
   "croptopia:recipes/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2025-03-16 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-03-16 04:21:55 +0000"
     },
     "done": true
   },
@@ -22755,6 +22788,12 @@
   "ad_astra:recipes/misc/iron_rod": {
     "criteria": {
       "has_iron_rod": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_planks": {
+    "criteria": {
+      "has_log": "2025-03-16 04:18:36 +0000"
     },
     "done": true
   },
