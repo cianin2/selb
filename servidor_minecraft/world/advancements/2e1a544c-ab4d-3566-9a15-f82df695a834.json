@@ -15834,6 +15834,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-03-16 04:59:31 +0000",
       "sugar_cane": "2025-03-09 01:19:18 +0000",
       "wheat": "2025-03-10 03:39:53 +0000",
       "carrot": "2025-03-10 03:32:41 +0000"
@@ -22628,6 +22629,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-03-16 05:02:21 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/tomato_juice": {
     "criteria": {
       "has_tomato": "2025-03-16 04:11:39 +0000"
@@ -22715,6 +22722,18 @@
   "sophisticatedstorage:recipes/misc/paintbrush": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-03-16 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-03-16 05:09:41 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2025-03-16 05:05:21 +0000"
     },
     "done": true
   },
@@ -22814,6 +22833,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-03-16 04:54:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
     "criteria": {
       "has_gold_chest": "2025-03-16 04:52:44 +0000"
@@ -22844,6 +22869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-03-16 05:09:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/iron_chest": {
     "criteria": {
       "has_chest": "2025-03-16 04:51:57 +0000"
@@ -22865,6 +22896,12 @@
   "railcraft:recipes/misc/iron_tank_gauge": {
     "criteria": {
       "has_iron_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-03-16 04:55:59 +0000"
     },
     "done": true
   },
@@ -22907,6 +22944,12 @@
   "twigs:recipes/tables/oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-03-16 02:51:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-03-16 04:59:30 +0000"
     },
     "done": true
   },
@@ -23024,9 +23067,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-03-16 05:09:41 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/redstoneproxy_update": {
     "criteria": {
       "torch": "2025-03-16 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-03-16 04:55:59 +0000"
     },
     "done": true
   },
@@ -23090,6 +23145,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-03-16 04:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-03-16 04:47:56 +0000"
@@ -23107,6 +23168,12 @@
       "torchberries": "2025-03-16 04:43:20 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-03-16 04:55:59 +0000"
+    },
+    "done": true
   },
   "utilitix:recipes/misc/tiny_charcoal_from_tiny": {
     "criteria": {
@@ -23205,6 +23272,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-03-16 05:09:41 +0000"
+    },
+    "done": true
+  },
   "railcraft:recipes/misc/iron_tank_wall": {
     "criteria": {
       "has_iron_plate": "2025-03-16 02:59:15 +0000"
@@ -23259,6 +23332,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-03-16 05:01:29 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_factory_block": {
     "criteria": {
       "has_iron_factory_block": "2025-03-16 02:59:15 +0000"
@@ -23301,9 +23380,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-03-16 04:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-03-16 04:47:48 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_soil_1x": {
+    "criteria": {
+      "has_soul_soil": "2025-03-16 05:05:21 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2025-03-16 05:05:21 +0000"
     },
     "done": true
   },
