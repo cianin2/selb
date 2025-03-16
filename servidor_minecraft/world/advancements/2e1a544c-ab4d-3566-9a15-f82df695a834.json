@@ -20400,7 +20400,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2025-03-10 03:38:51 +0000"
+      "minecraft:pig": "2025-03-10 03:38:51 +0000",
+      "minecraft:chicken": "2025-03-16 04:11:20 +0000"
     },
     "done": false
   },
@@ -22607,6 +22608,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2025-03-16 04:11:39 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/etrionic_blast_furnace": {
     "criteria": {
       "has_etrionic_blast_furnace": "2025-03-16 02:59:15 +0000"
@@ -22724,6 +22731,12 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-03-16 02:43:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 04:11:39 +0000"
     },
     "done": true
   },

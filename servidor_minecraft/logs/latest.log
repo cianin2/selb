@@ -5247,3 +5247,4 @@ Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException
   "<partial numeric data>",
   "[-37, 22, -97, 22, 8, 26, 12, 75, -8, 10, 34]"
 ]
+[16Mar2025 04:12:32.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved too quickly! -9.005155072041816,5.593880499798971,-4.603599845941972
