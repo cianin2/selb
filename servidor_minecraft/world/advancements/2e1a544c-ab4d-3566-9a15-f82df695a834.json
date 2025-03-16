@@ -3608,10 +3608,12 @@
       "cooked_beef": "2025-03-08 04:42:35 +0000",
       "baked_potato": "2025-03-08 07:17:36 +0000",
       "apple": "2025-03-08 21:21:07 +0000",
+      "cooked_cod": "2025-03-16 02:43:58 +0000",
       "mutton": "2025-03-08 04:34:02 +0000",
       "bread": "2025-03-08 05:16:03 +0000",
       "golden_apple": "2025-03-09 05:39:50 +0000",
-      "rotten_flesh": "2025-03-09 07:08:03 +0000"
+      "rotten_flesh": "2025-03-09 07:08:03 +0000",
+      "mushroom_stew": "2025-03-16 02:43:30 +0000"
     },
     "done": false
   },
@@ -17402,6 +17404,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "tres_leche_cake": "2025-03-16 02:52:48 +0000",
       "toast": "2025-03-09 04:36:46 +0000",
       "glowing_calamari": "2025-03-09 03:57:07 +0000"
     },
@@ -22595,6 +22598,168 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-03-15 06:15:47 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/iron_tank_gauge": {
+    "criteria": {
+      "has_iron_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-03-16 02:51:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-03-16 02:51:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/iron_tank_valve": {
+    "criteria": {
+      "has_iron_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-16 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-03-16 02:43:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-16 02:43:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-16 02:43:30 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/iron_tank_wall": {
+    "criteria": {
+      "has_iron_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-03-16 02:43:30 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-03-16 02:43:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2025-03-16 02:59:15 +0000"
     },
     "done": true
   },
