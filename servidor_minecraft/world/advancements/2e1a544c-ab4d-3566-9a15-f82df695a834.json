@@ -902,6 +902,7 @@
       "minecraft:old_growth_pine_taiga": "2025-03-08 19:13:18 +0000",
       "minecraft:deep_ocean": "2025-03-08 04:49:24 +0000",
       "minecraft:cherry_grove": "2025-03-08 08:04:10 +0000",
+      "minecraft:sunflower_plains": "2025-03-16 05:45:12 +0000",
       "minecraft:birch_forest": "2025-03-08 04:04:56 +0000",
       "minecraft:windswept_hills": "2025-03-08 21:17:05 +0000",
       "minecraft:bamboo_jungle": "2025-03-08 04:30:32 +0000",
@@ -914,8 +915,10 @@
       "minecraft:snowy_plains": "2025-03-08 07:43:59 +0000",
       "minecraft:stony_shore": "2025-03-08 07:48:16 +0000",
       "minecraft:swamp": "2025-03-08 07:46:29 +0000",
+      "minecraft:grove": "2025-03-16 05:36:43 +0000",
       "minecraft:cold_ocean": "2025-03-08 19:09:16 +0000",
       "minecraft:forest": "2025-03-08 19:09:20 +0000",
+      "minecraft:lush_caves": "2025-03-16 05:34:15 +0000",
       "minecraft:deep_cold_ocean": "2025-03-08 19:08:14 +0000",
       "minecraft:desert": "2025-03-08 07:34:05 +0000",
       "minecraft:jungle": "2025-03-08 04:17:04 +0000",
@@ -925,6 +928,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-03-08 04:48:56 +0000",
       "minecraft:flower_forest": "2025-03-08 05:06:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-08 19:13:28 +0000",
+      "minecraft:deep_dark": "2025-03-16 05:31:08 +0000",
       "minecraft:plains": "2025-03-08 07:25:24 +0000"
     },
     "done": false
@@ -5040,7 +5044,9 @@
       "spider_nest": "2025-03-08 21:51:10 +0000",
       "wasteland": "2025-03-08 07:35:53 +0000",
       "redwood_forest": "2025-03-08 20:19:22 +0000",
+      "aspen_glade": "2025-03-16 05:45:42 +0000",
       "dune_beach": "2025-03-09 01:36:48 +0000",
+      "seasonal_forest": "2025-03-16 05:45:43 +0000",
       "pasture": "2025-03-08 05:06:54 +0000",
       "rocky_rainforest": "2025-03-08 05:46:35 +0000",
       "lavender_field": "2025-03-08 20:36:05 +0000",
@@ -22683,6 +22689,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-16 05:31:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-03-16 04:51:51 +0000"
@@ -22764,6 +22776,12 @@
   "ad_astra:recipes/misc/iron_plating": {
     "criteria": {
       "has_iron_plating": "2025-03-16 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-16 05:31:08 +0000"
     },
     "done": true
   },
