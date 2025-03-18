@@ -2239,6 +2239,7 @@
       "minecraft:creeper": "2025-03-09 00:20:36 +0000",
       "minecraft:slime": "2025-03-17 05:14:30 +0000",
       "quark:forgotten": "2025-03-09 05:19:31 +0000",
+      "minecraft:phantom": "2025-03-18 05:42:27 +0000",
       "minecraft:witch": "2025-03-09 05:08:08 +0000",
       "minecraft:cave_spider": "2025-03-08 21:51:37 +0000",
       "minecraft:enderman": "2025-03-09 00:20:29 +0000",
@@ -24008,6 +24009,590 @@
   "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2025-03-18 04:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-18 05:11:47 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-03-18 05:12:06 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reprocessor/powerport": {
+    "criteria": {
+      "has_item2": "2025-03-18 05:19:20 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/fluidizer/powerport": {
+    "criteria": {
+      "has_item2": "2025-03-18 05:19:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-03-18 05:19:20 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/signal_capacitor_box": {
+    "criteria": {
+      "has_repeater": "2025-03-18 05:19:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-03-18 05:21:09 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/clay": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 05:21:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-03-18 05:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-18 05:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-18 05:21:09 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2025-03-18 05:21:09 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/brick": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 05:21:09 +0000"
+    },
+    "done": true
+  },
+  "caupona:recipes/decorations/clay_cistern": {
+    "criteria": {
+      "has_clay": "2025-03-18 05:21:09 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-03-18 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-03-18 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-03-18 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-03-18 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-03-18 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-03-18 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-03-18 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-03-18 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-03-18 05:28:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-03-18 05:31:24 +0000"
+    },
+    "done": true
+  },
+  "silentgear:salvager": {
+    "criteria": {
+      "get_item": "2025-03-18 05:41:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-18 05:42:27 +0000",
+      "warden": "2025-03-18 06:03:50 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-03-18 05:42:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-03-18 05:42:44 +0000"
+    },
+    "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2025-03-18 05:44:34 +0000",
+      "get_grader": "2025-03-18 05:43:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_ingot": {
+    "criteria": {
+      "has_crimson_iron_ingot": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-03-18 05:44:01 +0000"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/salvager": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/diorite": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/granite": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/bag_of_cement": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-03-18 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-03-18 05:53:32 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-18 06:03:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2025-03-18 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-03-18 06:03:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-03-18 06:03:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-03-18 06:03:52 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-03-18 06:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-03-18 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-18 06:14:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-03-18 05:49:55 +0000"
     },
     "done": true
   },

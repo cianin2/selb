@@ -1,15 +1,15 @@
-[04:13:31] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[04:13:31] [INIT] Loaded plugins:
-[04:13:31] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[04:13:31] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[04:13:31] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[04:13:31] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[04:13:31] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[04:13:31] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[04:13:31] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[04:13:31] [INIT] - com.almostreliable.morejs.Plugin
-[04:13:31] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[04:13:31] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[04:13:32] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[04:13:32] [INFO] Loaded script startup_scripts:example.js in 0.075 s
-[04:13:32] [INFO] Loaded 1/1 KubeJS startup scripts in 0.943 s with 0 errors and 0 warnings
+[05:06:58] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[05:06:58] [INIT] Loaded plugins:
+[05:06:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[05:06:58] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[05:06:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[05:06:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[05:06:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[05:06:58] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[05:06:58] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[05:06:58] [INIT] - com.almostreliable.morejs.Plugin
+[05:06:58] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[05:06:58] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[05:06:59] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[05:06:59] [INFO] Loaded script startup_scripts:example.js in 0.092 s
+[05:06:59] [INFO] Loaded 1/1 KubeJS startup scripts in 1.058 s with 0 errors and 0 warnings

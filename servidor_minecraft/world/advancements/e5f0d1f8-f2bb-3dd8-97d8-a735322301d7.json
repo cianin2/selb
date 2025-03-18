@@ -912,6 +912,7 @@
       "minecraft:windswept_savanna": "2025-03-09 00:53:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-08 04:48:53 +0000",
       "minecraft:flower_forest": "2025-03-08 05:05:57 +0000",
+      "minecraft:deep_dark": "2025-03-18 05:58:30 +0000",
       "minecraft:savanna": "2025-03-08 05:09:11 +0000",
       "minecraft:plains": "2025-03-10 03:59:44 +0000"
     },
@@ -7932,6 +7933,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-18 05:49:44 +0000",
       "minecraft:skeleton": "2025-03-09 00:23:25 +0000",
       "minecraft:spider": "2025-03-09 00:48:10 +0000",
       "minecraft:creeper": "2025-03-09 05:14:38 +0000",
@@ -20604,57 +20606,15 @@
     },
     "done": true
   },
-  "silentgear:recipes/misc/sinew_fiber": {
-    "criteria": {
-      "has_item": "2025-03-18 05:04:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_netherwart_stew": {
-    "criteria": {
-      "has_nether_wart": "2025-03-18 05:01:03 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/glowing_water": {
-    "criteria": {
-      "has_nether_wart": "2025-03-18 05:01:03 +0000"
-    },
-    "done": true
-  },
   "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
     "criteria": {
       "has_gold_dust": "2025-03-18 04:45:54 +0000"
     },
     "done": true
   },
-  "railcraft:recipes/misc/routing_table_book": {
-    "criteria": {
-      "has_writable_book": "2025-03-18 05:00:50 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/electrum_mix": {
     "criteria": {
       "has_gold_dust": "2025-03-18 04:45:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-03-18 05:01:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-03-18 05:01:03 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
-    "criteria": {
-      "has_writable_book": "2025-03-18 05:00:50 +0000"
     },
     "done": true
   },
@@ -20670,15 +20630,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/gold_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-03-18 04:45:54 +0000"
+    },
+    "done": true
+  },
   "rftoolspower:recipes/rftoolspower/power_core1": {
     "criteria": {
       "core": "2025-03-18 04:47:59 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/gold_ingot_from_dust": {
+  "railcraft:recipes/misc/routing_table_book": {
     "criteria": {
-      "has_item": "2025-03-18 04:45:54 +0000"
+      "has_writable_book": "2025-03-18 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
+    "criteria": {
+      "has_writable_book": "2025-03-18 05:00:50 +0000"
     },
     "done": true
   },
@@ -20688,9 +20660,27 @@
     },
     "done": true
   },
-  "silentgear:recipes/misc/dried_sinew": {
+  "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
-      "has_item": "2025-03-18 05:04:25 +0000"
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
     },
     "done": true
   },
@@ -20700,15 +20690,207 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2025-03-18 05:02:06 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
+  "silentgear:recipes/misc/sinew_fiber": {
     "criteria": {
-      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+      "has_item": "2025-03-18 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/dried_sinew": {
+    "criteria": {
+      "has_item": "2025-03-18 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-18 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-18 06:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-18 05:58:30 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-03-18 06:09:28 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/amethyst_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_amethyst": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-03-18 05:26:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-18 05:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-03-18 06:09:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-18 05:24:42 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/pumpkin_1x": {
+    "criteria": {
+      "has_pumpkin": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-18 06:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-18 05:24:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-03-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-18 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2025-03-18 06:09:26 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-18 05:23:47 +0000"
     },
     "done": true
   },
