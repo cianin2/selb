@@ -20604,15 +20604,57 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/sinew_fiber": {
+    "criteria": {
+      "has_item": "2025-03-18 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
     "criteria": {
       "has_gold_dust": "2025-03-18 04:45:54 +0000"
     },
     "done": true
   },
+  "railcraft:recipes/misc/routing_table_book": {
+    "criteria": {
+      "has_writable_book": "2025-03-18 05:00:50 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/electrum_mix": {
     "criteria": {
       "has_gold_dust": "2025-03-18 04:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
+    "criteria": {
+      "has_writable_book": "2025-03-18 05:00:50 +0000"
     },
     "done": true
   },
@@ -20637,6 +20679,36 @@
   "alltheores:recipes/misc/gold_ingot_from_dust": {
     "criteria": {
       "has_item": "2025-03-18 04:45:54 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/logbook": {
+    "criteria": {
+      "has_writable_book": "2025-03-18 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/dried_sinew": {
+    "criteria": {
+      "has_item": "2025-03-18 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/red_nether_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-03-18 05:01:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-03-18 05:02:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-03-18 05:01:03 +0000"
     },
     "done": true
   },
