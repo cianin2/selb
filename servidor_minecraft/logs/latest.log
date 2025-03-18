@@ -4411,3 +4411,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Mar2025 04:29:28.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Glass] to cianoman]
 [18Mar2025 04:29:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Glass] to cianoman]
 [18Mar2025 04:30:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Jungle Door] to cianoman]
+[18Mar2025 04:35:24.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Item Frame] to cianoman]
+[18Mar2025 04:35:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Item Frame] to cianoman]
+[18Mar2025 04:35:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Attuned Diamond] to cianoman]
+[18Mar2025 04:40:04.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: biesexo[/127.149.87.199:45459] logged in with entity id 3733 at (-22575.76249998808, -32.0, -4264.300000011921)
+[18Mar2025 04:40:04.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to biesexo
+[18Mar2025 04:40:04.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to biesexo
+[18Mar2025 04:40:04.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to biesexo
+[18Mar2025 04:40:04.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to biesexo
+[18Mar2025 04:40:04.802] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to biesexo
+[18Mar2025 04:40:04.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to biesexo
+[18Mar2025 04:40:04.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to biesexo
+[18Mar2025 04:40:05.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo joined the game
+[18Mar2025 04:40:05.290] [Server thread/INFO] [Jade/]: Syncing config to biesexo (e5f0d1f8-f2bb-3dd8-97d8-a735322301d7)

@@ -20058,9 +20058,225 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-16 20:01:05 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet_alt": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_gun": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/goddess_charm": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mana_diamond_block": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/divining_rod": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_gold_to_diamond_tier_upgrade": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/third_eye": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar_alt": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/avatar": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pylon": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/auto_crafting_halo": {
+    "criteria": {
+      "has_item": "2025-03-16 20:06:07 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-03-16 20:06:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_iron_to_gold_tier_upgrade": "2025-03-16 20:06:11 +0000"
+    },
+    "done": true
+  },
+  "silentgear:armor": {
+    "criteria": {
+      "chestplate": "2025-03-16 20:06:38 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/energizer/powerport_fe_active": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/activetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
+    "criteria": {
+      "has_redstone_block": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/activetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/activetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/energizer/powerport_fe": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/basic/activetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/redstone/peripheral_casing": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2025-03-16 20:07:17 +0000"
     },
     "done": true
   },
@@ -20076,33 +20292,9 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-16 20:19:05 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/energizer/powerport_fe_active": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/phantom_ink": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/turbine/reinforced/activetap_fe": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:07:10 +0000"
     },
     "done": true
   },
@@ -20124,18 +20316,6 @@
     },
     "done": true
   },
-  "botania:recipes/tools/mana_tablet_alt": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-03-16 20:19:05 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
@@ -20148,27 +20328,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/mana_tablet": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/zinc_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_gun": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
-    "criteria": {
-      "has_raw_zinc": "2025-03-16 20:23:01 +0000"
     },
     "done": true
   },
@@ -20178,39 +20340,9 @@
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
-    "criteria": {
-      "has_redstone_block": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
-  "alchemistry:recipes/dissolver/redstone": {
-    "criteria": {
-      "has_the_recipe": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
-  "silentgear:armor": {
-    "criteria": {
-      "chestplate": "2025-03-16 20:06:38 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/goddess_charm": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-03-16 20:23:01 +0000"
     },
     "done": true
   },
@@ -20220,33 +20352,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/tiny_planet": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "mekanismgenerators:wind_generator": {
-    "criteria": {
-      "wind_generator": "2025-03-16 20:06:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_iron_to_gold_tier_upgrade": "2025-03-16 20:06:11 +0000"
     },
     "done": true
   },
@@ -20280,30 +20388,6 @@
     },
     "done": true
   },
-  "bigreactors:recipes/building_blocks/reactor/reinforced/activefluidport_forge": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:19:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/mana_diamond_block": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/turbine/basic/activefluidport_forge": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:19:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/tiny_planet_block": {
-    "criteria": {
-      "has_alt_item": "2025-03-16 20:07:17 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
@@ -20322,24 +20406,6 @@
     },
     "done": true
   },
-  "botania:recipes/tools/invisibility_cloak": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/divining_rod": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/turbine/basic/activetap_fe": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/peridot_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
@@ -20352,24 +20418,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/gold_to_netherite_tier_upgrade": {
-    "criteria": {
-      "has_gold_to_diamond_tier_upgrade": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/turbine/reinforced/activefluidport_forge": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:19:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/third_eye": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
@@ -20379,12 +20427,6 @@
   "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar_alt": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
     },
     "done": true
   },
@@ -20406,33 +20448,9 @@
     },
     "done": true
   },
-  "bigreactors:recipes/building_blocks/reactor/reinforced/activetap_fe": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/avatar": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/ender_dagger": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/abstruse_platform": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
     },
     "done": true
   },
@@ -20442,21 +20460,9 @@
     },
     "done": true
   },
-  "bigreactors:recipes/building_blocks/energizer/powerport_fe": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/ruby_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/alchemy_catalyst": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
     },
     "done": true
   },
@@ -20466,21 +20472,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/mana_pylon": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/anvil_cart": {
-    "criteria": {
-      "criterion0": "2025-03-16 20:16:02 +0000"
     },
     "done": true
   },
@@ -20496,24 +20490,6 @@
     },
     "done": true
   },
-  "botania:recipes/tools/crafting_halo": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
-    },
-    "done": true
-  },
-  "croptopia:eatbig": {
-    "criteria": {
-      "eat_big": "2025-03-16 20:11:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-03-16 20:23:01 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
@@ -20526,45 +20502,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2025-03-16 20:01:05 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/reactor/basic/activetap_fe": {
-    "criteria": {
-      "has_item2": "2025-03-16 20:07:10 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2025-03-16 20:23:01 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_zinc_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-03-16 20:23:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:17 +0000"
     },
     "done": true
   },
@@ -20574,21 +20514,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/auto_crafting_halo": {
-    "criteria": {
-      "has_item": "2025-03-16 20:06:07 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
-    },
-    "done": true
-  },
-  "advancedperipherals:recipes/redstone/peripheral_casing": {
-    "criteria": {
-      "has_item": "2025-03-16 20:07:10 +0000"
     },
     "done": true
   },
@@ -20601,6 +20529,78 @@
   "alltheores:recipes/misc/iron_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-03-16 20:07:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-03-16 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/anvil_cart": {
+    "criteria": {
+      "criterion0": "2025-03-16 20:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-16 20:19:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-16 20:19:05 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:19:05 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:19:05 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-03-16 20:19:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2025-03-16 20:23:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-16 20:23:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-16 20:23:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-03-16 20:23:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-03-16 20:23:01 +0000"
     },
     "done": true
   },
