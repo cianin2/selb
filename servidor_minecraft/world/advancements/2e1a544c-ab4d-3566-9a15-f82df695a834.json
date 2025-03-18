@@ -23999,5 +23999,17 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
+    "criteria": {
+      "has_rib_bone": "2025-03-18 04:46:43 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2025-03-18 04:46:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
