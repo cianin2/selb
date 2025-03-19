@@ -4486,3 +4486,51 @@ Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException
 [19Mar2025 03:06:14.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Time in a bottle] to cianoman]
 [19Mar2025 03:06:35.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Time in a bottle] to cianoman]
 [19Mar2025 03:06:39.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Time in a bottle] to cianoman]
+[19Mar2025 03:11:16.404] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:catacombs took 707 ms
+[19Mar2025 03:11:32.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Teleported biesexo to -24127.500000, 79.000000, -7711.500000]
+[19Mar2025 03:11:32.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
+[19Mar2025 03:11:32.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved too quickly! -1.6229110890853917,7.6587088581881915,7.20525660178464
+[19Mar2025 03:12:33.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [Dungeon Delving]
+[19Mar2025 03:12:55.355] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[19Mar2025 03:12:56.338] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[19Mar2025 03:13:40.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [How long's this been here?]
+[19Mar2025 03:14:45.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Helmet Blueprint] to cianoman]
+[19Mar2025 03:15:20.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Tip Upgrade Blueprint] to cianoman]
+[19Mar2025 03:15:25.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Coating Blueprint] to cianoman]
+[19Mar2025 03:15:28.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Lining Blueprint] to cianoman]
+[19Mar2025 03:15:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has reached the goal [Fully Stuffed]
+[19Mar2025 03:15:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has completed the challenge [Centennial]
+[19Mar2025 03:18:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Time in a bottle] to cianoman]
+[19Mar2025 03:18:41.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 64 [Tyrian Steel Alloy Ingot] to cianoman]
+[19Mar2025 03:19:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Fine Silk Cloth Mixed Fabric] to cianoman]
+[19Mar2025 03:19:42.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Fine Silk Cloth Mixed Fabric] to cianoman]
+[19Mar2025 03:19:43.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Fine Silk Cloth Mixed Fabric] to cianoman]
+[19Mar2025 03:20:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Lapis Lazuli] to cianoman]
+[19Mar2025 03:20:07.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Lapis Lazuli] to cianoman]
+[19Mar2025 03:20:08.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Lapis Lazuli] to cianoman]
+[19Mar2025 03:20:17.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Netherite Ingot] to cianoman]
+[19Mar2025 03:20:17.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Netherite Ingot] to cianoman]
+[19Mar2025 03:20:17.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Netherite Ingot] to cianoman]
+[19Mar2025 03:20:38.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Better Armor]
+[19Mar2025 03:23:09.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Local Librarian]
+[19Mar2025 03:24:04.615] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[19Mar2025 03:24:04.616] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[19Mar2025 03:24:22.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Teleported biesexo to cianoman]
+[19Mar2025 03:28:20.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Teleported biesexo to cianoman]
+[19Mar2025 03:29:04.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Model Framework] to cianoman]
+[19Mar2025 03:29:07.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Model Framework] to cianoman]
+[19Mar2025 03:29:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Model Framework] to cianoman]
+[19Mar2025 03:29:17.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [Eye Spy]
+[19Mar2025 03:31:38.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Applied enchantment Smite X to cianoman's item]
+[19Mar2025 03:36:12.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Diamond Sword] to cianoman]
+[19Mar2025 03:36:18.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [The End?]
+[19Mar2025 03:36:19.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2869ms or 57 ticks behind
+[19Mar2025 03:36:21.357] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[19Mar2025 03:36:21.363] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[19Mar2025 03:36:22.118] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[19Mar2025 03:36:22.118] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[19Mar2025 03:36:32.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Scroll of Strengthening] to cianoman]
+[19Mar2025 03:36:42.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [The End?]
+[19Mar2025 03:37:45.114] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[19Mar2025 03:37:45.114] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[19Mar2025 03:38:15.268] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}

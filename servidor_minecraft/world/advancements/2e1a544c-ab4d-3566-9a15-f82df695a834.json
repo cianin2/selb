@@ -24598,6 +24598,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-19 03:23:50 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-03-19 03:23:50 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-03-19 02:56:55 +0000"
@@ -24613,6 +24625,12 @@
   "silentgear:recipes/misc/tyrian_steel_dust_blasting": {
     "criteria": {
       "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/reactor_casing": {
+    "criteria": {
+      "has_item": "2025-03-19 03:23:50 +0000"
     },
     "done": true
   },
@@ -24670,6 +24688,12 @@
     },
     "done": true
   },
+  "silentgear:armor": {
+    "criteria": {
+      "helmet": "2025-03-19 03:20:38 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/tyrian_steel_dust": {
     "criteria": {
       "has_item": "2025-03-19 02:58:31 +0000"
@@ -24706,15 +24730,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-03-19 03:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/allthemodium_mage_leggings_smithing": {
     "criteria": {
       "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-19 03:23:50 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/tyrian_steel_nugget": {
     "criteria": {
       "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-03-19 03:32:19 +0000"
     },
     "done": true
   },
@@ -24736,9 +24778,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-03-19 03:32:19 +0000"
+    },
+    "done": true
+  },
   "allthearcanistgear:recipes/elemental_boots_to_allthemodium_boots_smithing": {
     "criteria": {
       "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-03-19 03:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-19 03:23:50 +0000"
     },
     "done": true
   },
@@ -24763,6 +24823,18 @@
   "minecraft:recipes/combat/allthemodium_mage_helmet_smithing": {
     "criteria": {
       "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-03-19 03:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-03-19 03:23:50 +0000"
     },
     "done": true
   },
