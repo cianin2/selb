@@ -4502,6 +4502,7 @@
       "pasture": "2025-03-08 05:06:42 +0000",
       "rocky_rainforest": "2025-03-08 05:46:26 +0000",
       "lavender_field": "2025-03-09 05:03:34 +0000",
+      "fir_clearing": "2025-03-19 18:36:30 +0000",
       "prairie": "2025-03-08 20:48:39 +0000",
       "gravel_beach": "2025-03-19 03:35:38 +0000",
       "rainforest": "2025-03-08 05:31:22 +0000",
@@ -21309,6 +21310,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red": {
+    "criteria": {
+      "nugget": "2025-03-19 18:37:16 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/maroon_dye": {
     "criteria": {
       "has_red_dye": "2025-03-19 18:05:25 +0000"
@@ -21363,6 +21370,18 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_yellow": {
+    "criteria": {
+      "nugget": "2025-03-19 18:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-19 18:34:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_red_picket_fence": {
     "criteria": {
       "has_dye": "2025-03-19 18:05:25 +0000"
@@ -21381,6 +21400,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-19 18:37:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-03-19 18:32:30 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/red_industrial_lamp": {
     "criteria": {
       "has_red_industrial_lamp": "2025-03-19 18:05:25 +0000"
@@ -21396,6 +21427,12 @@
   "ad_astra:recipes/misc/red_flag": {
     "criteria": {
       "has_red_flag": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-19 18:30:48 +0000"
     },
     "done": true
   },
@@ -21441,9 +21478,21 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/machine_base": {
+    "criteria": {
+      "gold": "2025-03-19 18:37:16 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/eggdrop_soup": {
     "criteria": {
       "has_onion": "2025-03-19 17:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-03-19 18:34:33 +0000"
     },
     "done": true
   },
@@ -21507,6 +21556,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-03-19 18:32:30 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
     "criteria": {
       "has_dye": "2025-03-19 18:05:25 +0000"
@@ -21525,6 +21580,18 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_blue": {
+    "criteria": {
+      "nugget": "2025-03-19 18:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-19 18:37:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-19 18:05:25 +0000"
@@ -21540,6 +21607,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-03-19 18:32:30 +0000"
     },
     "done": true
   },
@@ -21579,9 +21652,21 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/antenna": {
+    "criteria": {
+      "bars": "2025-03-19 18:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-19 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_routing": {
+    "criteria": {
+      "nugget": "2025-03-19 18:37:16 +0000"
     },
     "done": true
   },
@@ -21624,6 +21709,12 @@
   "ad_astra:recipes/misc/small_red_industrial_lamp": {
     "criteria": {
       "has_small_red_industrial_lamp": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green": {
+    "criteria": {
+      "nugget": "2025-03-19 18:37:16 +0000"
     },
     "done": true
   },

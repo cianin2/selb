@@ -4503,3 +4503,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Mar2025 18:09:19.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of biesexo) moved wrongly! 0.9727597143282765
 [19Mar2025 18:09:19.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of biesexo) moved wrongly! 0.6389196631680534
 [19Mar2025 18:09:34.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: biesexo moved wrongly!
+[19Mar2025 18:19:40.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22690, y=92, z=-4310} BlockPos{x=-22691, y=90, z=-4310}
+[19Mar2025 18:25:18.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] gorda trola
+[19Mar2025 18:35:49.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: biesexo moved wrongly!
