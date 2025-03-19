@@ -24983,6 +24983,12 @@
     },
     "done": true
   },
+  "mahoutsukai:sword_in_the_lake": {
+    "criteria": {
+      "sword_in_the_lake": "2025-03-19 04:11:51 +0000"
+    },
+    "done": true
+  },
   "mahoutsukai:clarent": {
     "criteria": {
       "clarent": "2025-03-19 04:04:07 +0000"

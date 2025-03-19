@@ -4977,3 +4977,8 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [19Mar2025 04:06:54.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved too quickly! -8.153434067469467,7.15625,-1.3507834602309323
 [19Mar2025 04:07:31.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved wrongly!
 [19Mar2025 04:08:49.958] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Mar2025 04:10:08.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Powdered Diamond] to cianoman]
+[19Mar2025 04:10:09.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Powdered Diamond] to cianoman]
+[19Mar2025 04:10:20.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Powdered Emerald] to cianoman]
+[19Mar2025 04:11:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Attuned Emerald] to cianoman]
+[19Mar2025 04:11:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [The Sword in the... Lake?]
