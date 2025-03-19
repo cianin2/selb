@@ -21309,5 +21309,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-19 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-19 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/blast_furnace/blasting_iron_hoe": {
+    "criteria": {
+      "has_iron_hoe": "2025-03-19 17:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/eggdrop_soup": {
+    "criteria": {
+      "has_onion": "2025-03-19 17:49:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-19 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-03-19 17:54:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-03-19 17:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-19 17:49:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
