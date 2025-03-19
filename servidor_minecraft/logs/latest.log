@@ -4982,3 +4982,5 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [19Mar2025 04:10:20.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Powdered Emerald] to cianoman]
 [19Mar2025 04:11:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Attuned Emerald] to cianoman]
 [19Mar2025 04:11:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [The Sword in the... Lake?]
+[19Mar2025 04:24:57.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman lost connection: Disconnected
+[19Mar2025 04:24:57.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman left the game
