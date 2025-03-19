@@ -4255,3 +4255,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Mar2025 02:12:09.809] [Server thread/INFO] [com.yogpc.qp.integration.ic2.QuarryIC2Integration/]: Set QuarryPlus ic2 integration to false
 [19Mar2025 02:13:34.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman lost connection: Disconnected
 [19Mar2025 02:13:34.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman left the game
+[19Mar2025 02:17:31.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cianoman[/127.35.24.44:37499] logged in with entity id 2656 at (-23918.757415985514, -41.0, -3453.6517901547104)
+[19Mar2025 02:17:31.733] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to cianoman
+[19Mar2025 02:17:31.733] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to cianoman
+[19Mar2025 02:17:31.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to cianoman
+[19Mar2025 02:17:31.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to cianoman
+[19Mar2025 02:17:31.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to cianoman
+[19Mar2025 02:17:31.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to cianoman
+[19Mar2025 02:17:31.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to cianoman
+[19Mar2025 02:17:32.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman joined the game
+[19Mar2025 02:17:32.444] [Server thread/INFO] [Jade/]: Syncing config to cianoman (2e1a544c-ab4d-3566-9a15-f82df695a834)
+[19Mar2025 02:22:00.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Set own game mode to Survival Mode]
+[19Mar2025 02:24:53.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> Solo tengo 1 xd
+[19Mar2025 02:25:01.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> recien gaste 1
+[19Mar2025 02:25:11.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> a xd
+[19Mar2025 02:25:14.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> hice el manuscrito
+[19Mar2025 02:27:46.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> como cargo el jet
+[19Mar2025 02:28:26.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> metelo en el heat generatoe
+[19Mar2025 02:28:30.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> va a tardar banda
+[19Mar2025 02:28:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> en el rayito
+[19Mar2025 02:29:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> a en el metalurgic tamvien podes
+[19Mar2025 02:29:05.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> no carga
+[19Mar2025 02:29:20.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> en el rayo boludo
+[19Mar2025 02:30:25.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> en el heat esta cargando
+[19Mar2025 02:30:32.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> pero va a tardar banda
+[19Mar2025 02:30:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> adentro de la lava bobo
+[19Mar2025 02:30:58.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> ahi va
+[19Mar2025 02:31:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> lo dejo un rato
+[19Mar2025 02:31:19.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> deberai dejarte vargarlo en el matallurgic pero no se que pasa
+[19Mar2025 02:33:09.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> necesito que me tepees a las otras structuras del iron and spell
+[19Mar2025 02:33:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> pero para
+[19Mar2025 02:33:17.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> no tengo comida
+[19Mar2025 02:33:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> que falta
+[19Mar2025 02:33:39.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> mountain tower
+[19Mar2025 02:33:43.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> catacumbas
+[19Mar2025 02:33:46.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> y evoker
+[19Mar2025 02:33:58.961] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:mountain_tower took 357 ms
+[19Mar2025 02:34:03.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> avisa
+[19Mar2025 02:34:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> y te tepeo

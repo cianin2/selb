@@ -20894,5 +20894,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2025-03-19 02:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-03-19 02:19:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
