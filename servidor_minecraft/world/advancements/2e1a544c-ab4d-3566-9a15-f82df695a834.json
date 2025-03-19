@@ -17424,7 +17424,9 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "buttered_toast": "2025-03-19 02:54:27 +0000",
       "tres_leche_cake": "2025-03-16 02:52:48 +0000",
+      "toast_sandwich": "2025-03-19 02:54:22 +0000",
       "toast": "2025-03-09 04:36:46 +0000",
       "glowing_calamari": "2025-03-09 03:57:07 +0000"
     },
@@ -24593,6 +24595,30 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-03-18 06:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/cabochis": {
+    "criteria": {
+      "has_cabbage": "2025-03-19 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/congee": {
+    "criteria": {
+      "has_cabbage": "2025-03-19 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_toast_sandwich": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 02:54:21 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-03-19 02:48:07 +0000"
     },
     "done": true
   },

@@ -4321,3 +4321,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Mar2025 02:45:37.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Quarry Plus] to cianoman]
 [19Mar2025 02:45:38.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> sacla de creativo
 [19Mar2025 02:45:40.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> ya vengo
+[19Mar2025 02:48:48.907] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Mar2025 02:48:53.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Mar2025 02:49:49.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Experience Pump for Quarry] to cianoman]
+[19Mar2025 02:49:49.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Experience Pump for Quarry] to cianoman]
+[19Mar2025 02:52:22.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> vc en m.a
+[19Mar2025 02:53:45.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> voy
+[19Mar2025 02:54:18.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Buttered Toast] to cianoman]
+[19Mar2025 02:54:26.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Buttered Toast] to cianoman]
+[19Mar2025 02:57:49.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: biesexo lost connection: Disconnected
+[19Mar2025 02:57:49.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo left the game
