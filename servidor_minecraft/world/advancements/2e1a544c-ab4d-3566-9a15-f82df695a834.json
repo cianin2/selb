@@ -24598,6 +24598,30 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-03-19 02:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_mage_chestplate_smithing": {
+    "criteria": {
+      "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-03-19 02:56:55 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/cabochis": {
     "criteria": {
       "has_cabbage": "2025-03-19 02:49:01 +0000"
@@ -24610,15 +24634,189 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-03-19 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/refined_obsidian_knife": {
+    "criteria": {
+      "has_ingots/refined_obsidian": "2025-03-19 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-19 02:56:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_toast_sandwich": {
     "criteria": {
       "has_the_recipe": "2025-03-19 02:54:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-19 02:56:55 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_dust": {
+    "criteria": {
+      "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_block": {
+    "criteria": {
+      "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2025-03-19 02:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_spell_book_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_mage_leggings_smithing": {
+    "criteria": {
+      "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_nugget": {
+    "criteria": {
+      "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-03-19 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/elemental_hat_to_allthemodium_hat_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/elemental_boots_to_allthemodium_boots_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/allthemodium_dust_from_ingot": {
+    "criteria": {
+      "has_allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/elemental_legs_to_allthemodium_leggings_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_mage_helmet_smithing": {
+    "criteria": {
+      "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_mage_boots_smithing": {
+    "criteria": {
+      "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/red_nether_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 02:56:55 +0000"
+    },
+    "done": true
+  },
+  "silentgear:grader_catalyst_2": {
+    "criteria": {
+      "get_item": "2025-03-19 03:03:40 +0000"
+    },
+    "done": true
+  },
+  "silentgear:grader_catalyst_3": {
+    "criteria": {
+      "get_item": "2025-03-19 03:03:42 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/elemental_chest_to_allthemodium_robes_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2025-03-19 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-03-19 02:56:55 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2025-03-19 02:55:53 +0000"
     },
     "done": true
   },
