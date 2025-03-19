@@ -21309,9 +21309,81 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/maroon_dye": {
+    "criteria": {
+      "has_red_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-03-19 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-03-19 18:05:25 +0000"
     },
     "done": true
   },
@@ -21321,9 +21393,51 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/red_brick_extra": {
+    "criteria": {
+      "has_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
   "railcraft:recipes/blast_furnace/blasting_iron_hoe": {
     "criteria": {
       "has_iron_hoe": "2025-03-19 17:54:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-19 18:05:25 +0000"
     },
     "done": true
   },
@@ -21339,9 +21453,69 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_hoe_repairing": {
     "criteria": {
       "has_iron_hoe": "2025-03-19 17:54:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-03-19 18:05:25 +0000"
     },
     "done": true
   },
@@ -21351,9 +21525,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-19 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_dye": {
+    "criteria": {
+      "has_red_dye": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-19 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-03-19 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-03-19 18:05:25 +0000"
     },
     "done": true
   },
