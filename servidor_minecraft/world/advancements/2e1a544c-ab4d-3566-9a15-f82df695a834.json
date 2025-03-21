@@ -27114,5 +27114,29 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/ghast": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-03-21 03:07:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/creeper": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-03-21 03:07:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-03-21 03:07:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-03-21 03:07:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
