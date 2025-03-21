@@ -27066,9 +27066,51 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/redstone/fluid_hopper": {
+    "criteria": {
+      "has_item": "2025-03-21 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/rapid_hopper": {
+    "criteria": {
+      "has_item": "2025-03-21 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/vacuum_barge": {
+    "criteria": {
+      "has_item": "2025-03-21 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reprocessor/collector": {
+    "criteria": {
+      "has_item2": "2025-03-21 02:14:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-21 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-03-21 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-03-21 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-03-21 02:14:04 +0000"
     },
     "done": true
   },
