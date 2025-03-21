@@ -25002,27 +25002,9 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_brazier": {
-    "criteria": {
-      "has_ritual_brazier": "2025-03-20 04:09:04 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_fertility": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ritual_animal_summon": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stonecutter_stair": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25062,42 +25044,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/gold_nugget": {
-    "criteria": {
-      "has_zombie_heart": "2025-03-20 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
-    "criteria": {
-      "has_zombie_heart": "2025-03-20 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/mossy_cobblestone": {
-    "criteria": {
-      "has_wood": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_warping": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -25116,39 +25062,15 @@
     },
     "done": true
   },
-  "ars_nouveau:enchanting_apparatus": {
-    "criteria": {
-      "has_enchanting_apparatus": "2025-03-20 04:08:52 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ritual_gravity": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/falseweave": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/green_sbed": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25188,12 +25110,6 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -25203,24 +25119,6 @@
   "ars_nouveau:recipes/misc/archwood_stairs": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mossy_stone_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25260,18 +25158,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/ritual_restoration": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_chest": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -25284,42 +25170,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/arcane_platform": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/archwood_door": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ritual_awakening": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/redstone_relay": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -25329,18 +25179,6 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/manipulation_essence_to_blazin_sapling": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25368,63 +25206,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/stripped_purple_archwood_wood": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:experimental": {
-    "criteria": {
-      "builtin": "2025-03-20 04:19:47 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "alchemistry:recipes/dissolver/amethyst_block": {
-    "criteria": {
-      "has_the_recipe": "2025-03-20 03:45:49 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/dowsing_rod": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2025-03-20 05:09:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_sconce": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
-    "criteria": {
-      "has_amethyst": "2025-03-20 03:45:49 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:source_jar": {
-    "criteria": {
-      "has_source_jar": "2025-03-20 03:41:32 +0000"
     },
     "done": true
   },
@@ -25446,33 +25236,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/mossy_stone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_shulker_from_netherite_chest": {
-    "criteria": {
-      "has_netherite_chest": "2025-03-20 04:59:43 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
-    "criteria": {
-      "has_zombie_heart": "2025-03-20 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25482,39 +25248,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/manipulation_essence_to_mycelium": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/spike_to_arrow": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/relay": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/mossy_cobblestone_chain": {
-    "criteria": {
-      "recipe_condition": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ritual_sunrise": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
     },
     "done": true
   },
@@ -25524,33 +25260,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/starbuncle_shades": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2025-03-20 03:33:34 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "alchemistry:recipes/dissolver/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_the_recipe": "2025-03-20 04:59:29 +0000"
     },
     "done": true
   },
@@ -25566,21 +25278,9 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
-    "criteria": {
-      "has_item": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25596,12 +25296,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -25614,12 +25308,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -25629,12 +25317,6 @@
   "ars_nouveau:recipes/misc/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25656,33 +25338,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/magebloom_fiber": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-03-20 04:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ritual_challenge": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25692,33 +25350,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/mossy_cobblestone_extra": {
-    "criteria": {
-      "has_material": "2025-03-20 04:59:29 +0000"
     },
     "done": true
   },
@@ -25746,39 +25380,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/ritual_binding": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2025-03-20 04:12:35 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/decorations/sourcestone_19": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/decorations/sourcestone_18": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25848,33 +25452,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/decorations/sourcestone_20": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/volcanic_sourcelink": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/amethyst_chimes": {
-    "criteria": {
-      "has_planks": "2025-03-20 03:45:49 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2025-03-20 04:18:37 +0000"
     },
     "done": true
   },
@@ -25890,36 +25470,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/manipulation_essence_to_deepslate": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/mimic_scroll": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/red_sbed": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/source_jar": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -25929,12 +25479,6 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ghostweave": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25950,21 +25494,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/purple_sbed": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_stairs": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -25980,18 +25512,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/repository": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -26001,18 +25521,6 @@
   "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26046,33 +25554,9 @@
     },
     "done": true
   },
-  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
-    "criteria": {
-      "has_item": "2025-03-20 04:31:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/agronomic_sourcelink": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
-    "criteria": {
-      "requirement": "2025-03-20 05:09:06 +0000"
     },
     "done": true
   },
@@ -26091,18 +25575,6 @@
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
-    "criteria": {
-      "has_cod": "2025-03-20 04:12:35 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-03-20 04:59:29 +0000"
     },
     "done": true
   },
@@ -26136,12 +25608,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
-    "criteria": {
-      "has_zombie_heart": "2025-03-20 04:42:38 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -26172,12 +25638,6 @@
     },
     "done": true
   },
-  "ars_nouveau:drygmy_charm": {
-    "criteria": {
-      "has_drygmy_charm": "2025-03-20 04:13:30 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sconce": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -26190,51 +25650,9 @@
     },
     "done": true
   },
-  "railcraft:recipes/misc/mob_detector": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_slab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/archwood_to_chest": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/rotating_spell_turret": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-03-20 04:12:35 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_stairs": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26244,27 +25662,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/decorations/sourcestone_6": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/decorations/sourcestone_5": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/decorations/sourcestone_8": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/decorations/sourcestone_7": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26274,63 +25674,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/decorations/sourcestone_2": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/decorations/sourcestone_1": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/decorations/sourcestone_4": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/decorations/sourcestone_3": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ring_of_potential": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "sliceanddice:recipes/misc/sprinkler": {
-    "criteria": {
-      "has_pipe": "2025-03-20 04:17:24 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/conjuration_essence_to_end_stone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-03-20 04:12:35 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26346,45 +25698,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-03-20 04:12:35 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:imbuement_chamber": {
-    "criteria": {
-      "has_imbuement_chamber": "2025-03-20 03:37:13 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26394,39 +25710,15 @@
     },
     "done": true
   },
-  "alchemistry:recipes/dissolver/cooked_cod": {
-    "criteria": {
-      "has_the_recipe": "2025-03-20 04:12:35 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/magebloom_block": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/mundane_belt": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26448,57 +25740,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_stairs": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_scrying": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/deny_scroll": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/blue_archwood_wood": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26526,45 +25776,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/sourcestone_basketweave_stairs": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:recipes/misc/tablet_ritual_attraction": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stonecutter_stair": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:spirit_taking": {
-    "criteria": {
-      "builtin": "2025-03-20 04:19:40 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/wilden_summon_alt": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26610,39 +25824,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ritual_burrowing": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/ritual_overgrowth": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/alt_blossom": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/sunrise_2": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26652,27 +25836,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/polished_source_sconce": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/wixie_hat": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26682,21 +25848,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/ritual_forestation": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blank_parchment": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/potion_jar": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26712,12 +25866,6 @@
     },
     "done": true
   },
-  "ars_nouveau:mob_jar": {
-    "criteria": {
-      "has_mob_jar": "2025-03-20 04:46:49 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -26730,21 +25878,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wipe_starby_shard": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26766,21 +25902,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/archwood_trapdoor": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/horn_to_bonemeal": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26790,33 +25914,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-03-20 04:31:09 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mossy_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_stairs": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26844,12 +25944,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/dull_trinket": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
@@ -26859,12 +25953,6 @@
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:recipes/misc/yellow_archwood": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26889,30 +25977,6 @@
   "ars_nouveau:recipes/misc/annotated_codex": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
-    "criteria": {
-      "requirement": "2025-03-20 05:23:45 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/sourceberry_to_purple": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stonecutter_stair": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/source_gem_block_2": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -26946,27 +26010,9 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
-    "criteria": {
-      "has_item": "2025-03-20 04:59:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/challenge_2": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/item_detector": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-20 04:12:35 +0000"
     },
     "done": true
   },
@@ -26976,51 +26022,15 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/fuel_tank": {
-    "criteria": {
-      "has_item": "2025-03-20 04:17:03 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_slab": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/scryers_crystal": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/sky_block": {
-    "criteria": {
-      "has_journal": "2025-03-20 03:18:02 +0000"
     },
     "done": true
   },
@@ -27060,9 +26070,1005 @@
     },
     "done": true
   },
+  "ars_nouveau:recipes/misc/ritual_animal_summon": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_gravity": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/falseweave": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/green_sbed": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_restoration": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/arcane_platform": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/archwood_door": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_awakening": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_blazin_sapling": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/stripped_purple_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/dowsing_rod": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_mycelium": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/spike_to_arrow": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_sunrise": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/starbuncle_shades": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_challenge": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_binding": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_19": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_18": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_20": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/volcanic_sourcelink": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_deepslate": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/mimic_scroll": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/red_sbed": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_jar": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ghostweave": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_stairs": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_slab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_to_chest": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/rotating_spell_turret": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_6": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_5": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_7": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_2": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_1": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_3": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ring_of_potential": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/conjuration_essence_to_end_stone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/magebloom_block": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_stairs": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/deny_scroll": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/blue_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_basketweave_stairs": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_attraction": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wilden_summon_alt": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_burrowing": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_overgrowth": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sunrise_2": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/polished_source_sconce": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wixie_hat": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_forestation": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/potion_jar": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_trapdoor": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/horn_to_bonemeal": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_stairs": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/dull_trinket": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/yellow_archwood": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourceberry_to_purple": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_gem_block_2": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/challenge_2": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/scryers_crystal": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sky_block": {
+    "criteria": {
+      "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/flight_alt": {
     "criteria": {
       "has_journal": "2025-03-20 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-03-20 03:33:34 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-03-20 03:37:13 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-03-20 03:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/amethyst_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_amethyst": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 03:45:49 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-03-20 04:08:52 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-03-20 04:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2025-03-20 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-20 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:drygmy_charm": {
+    "criteria": {
+      "has_drygmy_charm": "2025-03-20 04:13:30 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-03-20 04:17:03 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-03-20 04:17:24 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-20 04:18:37 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-03-20 04:19:40 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2025-03-20 04:19:47 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-20 04:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-20 04:31:09 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-03-20 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-03-20 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-03-20 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-03-20 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-03-20 04:46:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/mossy_cobblestone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/mossy_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/mob_detector": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-03-20 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_shulker_from_netherite_chest": {
+    "criteria": {
+      "has_netherite_chest": "2025-03-20 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-03-20 05:09:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-03-20 05:09:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-03-20 05:23:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 02:08:06 +0000"
     },
     "done": true
   },
