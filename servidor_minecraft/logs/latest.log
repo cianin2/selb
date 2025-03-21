@@ -4834,3 +4834,40 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [21Mar2025 02:33:27.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> por eso hay mas de 1
 [21Mar2025 02:33:37.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> cuanto te saco?
 [21Mar2025 02:33:40.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> esta a lvl 1
+[21Mar2025 02:33:53.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> yo quemo por le guante
+[21Mar2025 02:33:57.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> ya me lo saque
+[21Mar2025 02:34:59.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> 5
+[21Mar2025 02:35:09.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> me dieron supremium por recompensas
+[21Mar2025 02:35:15.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> mira el cofre del infernum
+[21Mar2025 02:35:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> hay tambien insanium y algo de eso
+[21Mar2025 02:35:50.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> a ya sacaste todo
+[21Mar2025 02:36:16.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> a bueno
+[21Mar2025 02:36:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> tertium
+[21Mar2025 02:36:31.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> tierra, hoe y el polvo
+[21Mar2025 02:36:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> es recompensa random maestro
+[21Mar2025 02:37:05.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> aver para
+[21Mar2025 02:37:28.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Supremium Essence] to cianoman]
+[21Mar2025 02:37:42.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman lost connection: Disconnected
+[21Mar2025 02:37:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman left the game
+[21Mar2025 02:40:40.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cianoman[/127.35.24.44:44425] logged in with entity id 9023 at (-22683.238592813035, 68.0, -4340.762499988079)
+[21Mar2025 02:40:40.290] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to cianoman
+[21Mar2025 02:40:40.290] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to cianoman
+[21Mar2025 02:40:40.291] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to cianoman
+[21Mar2025 02:40:40.291] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to cianoman
+[21Mar2025 02:40:40.293] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to cianoman
+[21Mar2025 02:40:40.294] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to cianoman
+[21Mar2025 02:40:40.294] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to cianoman
+[21Mar2025 02:40:40.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman joined the game
+[21Mar2025 02:40:40.978] [Server thread/INFO] [Jade/]: Syncing config to cianoman (2e1a544c-ab4d-3566-9a15-f82df695a834)
+[21Mar2025 02:43:51.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved too quickly! 0.030322401682497002,-10.287592896255177,-0.05622066142041149
+[21Mar2025 02:43:53.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved too quickly! 0.0,-10.811596629254801,0.0
+[21Mar2025 02:45:46.095] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[21Mar2025 02:45:46.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [We Need to Go Deeper]
+[21Mar2025 02:46:33.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Anvil] to cianoman]
+[21Mar2025 02:48:01.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [The Sword in the... Lake?]
+[21Mar2025 02:49:31.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Iron Bars] to cianoman]
+[21Mar2025 02:50:28.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved too quickly! -1.0729409199775546,-10.394252021342965,0.18525438342021516
+[21Mar2025 02:50:36.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman moved too quickly! -0.6814276769109711,6.62870885818819,7.642266167552407
+[21Mar2025 02:51:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Lilypad of Fertility] to cianoman]
+[21Mar2025 02:52:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Chest] to cianoman]
+[21Mar2025 02:53:13.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Water Bucket] to cianoman]

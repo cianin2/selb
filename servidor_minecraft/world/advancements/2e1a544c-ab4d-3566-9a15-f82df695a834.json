@@ -27066,6 +27066,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 02:08:06 +0000"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/redstone/fluid_hopper": {
     "criteria": {
       "has_item": "2025-03-21 02:14:04 +0000"
@@ -27087,12 +27093,6 @@
   "bigreactors:recipes/building_blocks/reprocessor/collector": {
     "criteria": {
       "has_item2": "2025-03-21 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/easter": {
-    "criteria": {
-      "coded_trigger": "2025-03-21 02:08:06 +0000"
     },
     "done": true
   },
